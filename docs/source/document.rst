@@ -1,5 +1,5 @@
-Document Class
-==============
+Document
+========
 
 .. automodule:: Document
    :members:
